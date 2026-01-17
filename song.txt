@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 First half of song
+=======
+"finish my song"
+>>>>>>> ca7db91f73c9b7fbb97a7c8149cc2fa19b2decfb
